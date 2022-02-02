@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "body-parser": "^1.19.1",
+    "dotenv": "^15.0.0",
     "ejs": "^2.7.4",
     "express": "^4.17.2",
     "lodash": "^4.17.21",
